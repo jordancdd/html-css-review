@@ -1,0 +1,80 @@
+* {
+    box-sizing:border-box;
+}
+
+.wrapper {
+    max-width:1200px;
+    margin-left:auto;
+    margin-right:auto;
+    padding:2rem;
+}
+
+header {
+    background-color:#000;
+    box-sizing:border-box;
+    border:5px #000;
+    color:#DEC9E9;
+    padding: 1rem;
+}
+
+ul li{
+    display:block;
+    float:right;
+    padding: .5rem;
+
+}
+
+header p {
+    float:left;
+}
+
+.hero {
+    width:100%;
+    padding:8em 0em;
+    background-image:url("../images/ice-cream-cones.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+}
+
+body {
+    font-family:'Nunito', sans-serif;
+    line-height:1.5rem;
+}
+
+h1 {
+    color:#fff;
+    text-align:center;
+    text-shadow:#000 1px 0 10px;
+    font-family:'Wix Madefor Display', sans-serif;
+    text-transform:uppercase;
+}
+
+#section1 {
+    background-color:#7251B5;
+    color:#fff;
+}
+
+#sect {
+    background-color:#000;
+    color:#DEC9E9;
+}
+
+#section3 {
+    background-color:#7251B5;
+    color:#fff;
+}
+
+#section3 h2 {
+    text-align:center;
+}
+
+#section3 p {
+    text-align:center;
+}
+
+footer {
+    background-color:#000;
+    color:#fff;
+    text-align:center;
+}

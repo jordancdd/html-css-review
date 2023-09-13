@@ -18,7 +18,7 @@ We will review the exercise together next class.
   - Wix Madefor Display `ExtraBold 800`
   - Nunito `Regular 400`
 5. Organize images that will be displayed on your web page into their own `images` folder.
-6. Review all filenames and confirm they are using proper naming conventions. ????
+6. Review all filenames and confirm they are using proper naming conventions. 
 7. Commit and push up your work to GitHub to confirm all is working as it should.
 8. On Github, adjust the repository settings to enable GitHub pages. Settings --> Pages --> Under Branch choose main --> Save. This is the link you will submit to Brightspace.
 
